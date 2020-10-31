@@ -1,4 +1,4 @@
-# EmbeddedSystemsProjects
+# Embedded Systems Projects
 
 Written by Wallace Obey and Brodie Gerloff
 
